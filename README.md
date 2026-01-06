@@ -1,16 +1,21 @@
-## Hi there 👋
+💻 Sobre mim
 
-<!--
-**CaduCTA15/CaduCTA15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º semestre, com foco em desenvolvimento de software e constante evolução técnica. Tenho experiência prática e acadêmica nas linguagens Python, C++, Java e em bancos de dados SQL.
 
-Here are some ideas to get you started:
+Gosto de resolver problemas através da programação, aplicar boas práticas de código e aprender novas tecnologias. Neste GitHub você encontrará projetos desenvolvidos durante a faculdade, estudos práticos e experimentos voltados ao aprimoramento das minhas habilidades como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Competências técnicas:
+
+Python
+
+C++
+
+Java
+
+SQL (modelagem e consultas)
+
+Lógica de programação
+
+Desenvolvimento orientado a objetos
+
+🚀 Sempre em busca de aprendizado, desafios e oportunidades para crescer na área de tecnologia.
